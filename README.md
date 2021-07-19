@@ -23,7 +23,7 @@ Repository: [https://github.com/spencercreer/python-newsfeed](https://github.com
 ## Animation
 The following animation demonstrates the application functionality:
 <br>
-![Tech Newsy animation](TBD)
+![Tech Newsy animation](./assets/python-newsfeed.gif)
 ## Instructions
 TBD
 ## Installation
